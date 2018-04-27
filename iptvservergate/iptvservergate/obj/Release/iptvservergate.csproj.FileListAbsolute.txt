@@ -1,0 +1,10 @@
+C:\Users\Sal\documents\visual studio 2015\Projects\iptvservergate\iptvservergate\bin\Release\iptvservergate.exe.config
+C:\Users\Sal\documents\visual studio 2015\Projects\iptvservergate\iptvservergate\bin\Release\iptvservergate.exe
+C:\Users\Sal\documents\visual studio 2015\Projects\iptvservergate\iptvservergate\bin\Release\iptvservergate.pdb
+C:\Users\Sal\documents\visual studio 2015\Projects\iptvservergate\iptvservergate\bin\Release\System.Net.FtpClient.dll
+C:\Users\Sal\documents\visual studio 2015\Projects\iptvservergate\iptvservergate\bin\Release\System.Net.FtpClient.xml
+C:\Users\Sal\documents\visual studio 2015\Projects\iptvservergate\iptvservergate\obj\Release\iptvservergate.Form1.resources
+C:\Users\Sal\documents\visual studio 2015\Projects\iptvservergate\iptvservergate\obj\Release\iptvservergate.Properties.Resources.resources
+C:\Users\Sal\documents\visual studio 2015\Projects\iptvservergate\iptvservergate\obj\Release\iptvservergate.csproj.GenerateResource.Cache
+C:\Users\Sal\documents\visual studio 2015\Projects\iptvservergate\iptvservergate\obj\Release\iptvservergate.exe
+C:\Users\Sal\documents\visual studio 2015\Projects\iptvservergate\iptvservergate\obj\Release\iptvservergate.pdb

@@ -1,0 +1,13 @@
+C:\Users\Sal\Documents\Visual Studio 2015\Projects\iptvservergate\iptvservergate\bin\Debug\iptvservergate.exe.config
+C:\Users\Sal\Documents\Visual Studio 2015\Projects\iptvservergate\iptvservergate\bin\Debug\iptvservergate.exe
+C:\Users\Sal\Documents\Visual Studio 2015\Projects\iptvservergate\iptvservergate\bin\Debug\iptvservergate.pdb
+C:\Users\Sal\Documents\Visual Studio 2015\Projects\iptvservergate\iptvservergate\bin\Debug\FluentFTP.dll
+C:\Users\Sal\Documents\Visual Studio 2015\Projects\iptvservergate\iptvservergate\bin\Debug\System.Net.FtpClient.dll
+C:\Users\Sal\Documents\Visual Studio 2015\Projects\iptvservergate\iptvservergate\bin\Debug\FluentFTP.xml
+C:\Users\Sal\Documents\Visual Studio 2015\Projects\iptvservergate\iptvservergate\bin\Debug\System.Net.FtpClient.xml
+C:\Users\Sal\Documents\Visual Studio 2015\Projects\iptvservergate\iptvservergate\obj\Debug\iptvservergate.Form1.resources
+C:\Users\Sal\Documents\Visual Studio 2015\Projects\iptvservergate\iptvservergate\obj\Debug\iptvservergate.Properties.Resources.resources
+C:\Users\Sal\Documents\Visual Studio 2015\Projects\iptvservergate\iptvservergate\obj\Debug\iptvservergate.csproj.GenerateResource.Cache
+C:\Users\Sal\Documents\Visual Studio 2015\Projects\iptvservergate\iptvservergate\obj\Debug\iptvservergate.exe
+C:\Users\Sal\Documents\Visual Studio 2015\Projects\iptvservergate\iptvservergate\obj\Debug\iptvservergate.pdb
+C:\Users\Sal\documents\visual studio 2015\Projects\iptvservergate\iptvservergate\obj\Debug\iptvservergate.csprojResolveAssemblyReference.cache
